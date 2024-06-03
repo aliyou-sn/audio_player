@@ -1,7 +1,7 @@
 #include <WiFi.h>             
-#include <ESP32WebServer.h>    
+#include <ESP32WebServer.h>    //https://github.com/Pedroalbuquerque/ESP32WebServer download and place in your Libraries folder
 #include <ESPmDNS.h>
-#include <SerialFlash.h>
+#include <SerialFlash.h>      //https://github.com/PaulStoffregen/SerialFlash.git
 #include "CSS.h" 
 #include <SPI.h>
 
